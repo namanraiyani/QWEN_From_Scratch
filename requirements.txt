@@ -1,0 +1,7 @@
+torch>=2.0.0
+tokenizers>=0.15.0
+huggingface_hub>=0.24.7
+safetensors>=0.4.4
+blobfile>=3.0.0
+ipywidgets>=8.1.2
+sentencepiece>=0.1.99
