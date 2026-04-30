@@ -1,5 +1,8 @@
 # QWEN3 MODEL IMPLEMENTATION
 
+<img width="1291" height="420" alt="image" src="https://github.com/user-attachments/assets/faa81b83-47a5-46b9-9c97-f53af780aea6" />
+
+
 A clean, modular implementation of the Qwen3 language model family with support for multiple model sizes (0.6B to 32B parameters).
 
 ## FEATURES
